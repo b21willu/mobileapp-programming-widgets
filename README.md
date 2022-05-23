@@ -120,3 +120,7 @@ Den margin som lades till var layout_constraintHorizontal_bias="0.572". Vilket g
         app:layout_constraintStart_toStartOf="@id/signin_label"
         tools:srcCompat="@tools:sample/avatars" />
 ```
+
+![](Screenshot1.png)
+Screenshot ifrån MainActivity sida.
+
